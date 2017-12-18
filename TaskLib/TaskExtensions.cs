@@ -7,6 +7,7 @@ namespace TaskLibrary
     /// <summary>
     ///     Extension class for tasks.
     /// </summary>
+    /// <author>Hirad Asadi</author>
     public static class TaskExtensions
     {
         /// <summary>
